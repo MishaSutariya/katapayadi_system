@@ -1,14 +1,8 @@
-# katapayadi system
-
-### Software And Tools Requirements
-
-1. [Github Account](https://github.com)
-2. [VS code IDE](https://code.visualstudio.com/)
-3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
-
-Create a new environment
+# Katapayadi system
 
 ```
-conda create -p venv python==3.11 -y 
-conda activate venv/
+Katapayadi system (Devanagari: कटपयादि, also known as Paralppēru, Malayalam: പരല്‍പ്പേര്) of numerical notation is an ancient Indian alphasyllabic numeral system to depict letters to numerals for easy remembrance of numbers as words or verses.
+```
+```
+Katapayadi is a numerology system that was used in ancient India to encode words into numbers. In this system, each letter of the Sanskrit alphabet is assigned a numerical value, and words are formed by adding up the values of their constituent letters
 ```
